@@ -1,0 +1,23 @@
+{
+  "name": "calc-gst-plus-sc",
+  "version": "1.0.0",
+  "description": "Calculate GST plus Service Charge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aungkyawhein/calc-gst-plus-sc.git"
+  },
+  "keywords": [
+    "gst",
+    "service charge"
+  ],
+  "author": "aungkyawhein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aungkyawhein/calc-gst-plus-sc/issues"
+  },
+  "homepage": "https://github.com/aungkyawhein/calc-gst-plus-sc#readme"
+}
